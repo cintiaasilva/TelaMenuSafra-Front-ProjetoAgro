@@ -1,11 +1,58 @@
 .corpotodo{
+    position: relative;
     width: 100%;
-    margin: 0 auto;
-    margin: 0 auto;
-    padding: 0px;
-    box-sizing: border-box;
-    display: block;
-    height: 100%;
-    font-family: Poppins-Regular, sans-serif;
-    color: -internal-root-color;
+    height: 610px;
+    position: absolute;
+    width: 100%px;
+    background: #d4e851;
+    background: -webkit-linear-gradient(bottom, rgb(16, 114, 7), rgba(30, 197, 15, 0.45), rgb(3, 231, 21));
+    background: -o-linear-gradient(bottom, rgb(16, 114, 7), rgba(30, 197, 15, 0.38), rgb(3, 231, 21));
+    background: -moz-linear-gradient(bottom, rgb(16, 114, 7),rgb(30, 197, 15), rgb(3, 231, 21));
+    background: linear-gradient(bottom, rgb(16, 114, 7), rgba(30, 197, 15, 0.4), rgb(3, 231, 21)); 
+    opacity: 0.8;
+    background-image: url('imagens/2674659.jpg');
+
+    
 }
+.partePrincipal{
+    position: absolute;
+    width: 1168px;
+    height: 351px;
+    left: 92px;
+    top: 266px;
+    
+
+}
+.quadradoEstoque{
+    position: absolute;
+    width: 277px;
+    height: 351px;
+    left: 92px;
+    top: 25px;
+
+}
+
+.quadradoFinanceiro{
+    position: absolute;
+    width: 277px;
+    height: 351px;
+    left: 389px;
+    top: 25px;
+    background-color: chartreuse;
+
+}
+.quadradoInsumos{
+    position: absolute;
+    width: 277px;
+    height: 351px;
+    left: 686px;
+    top: 25px;
+}
+.quadradoSafra{
+    position: absolute;
+    width: 277px;
+    height: 351px;
+    left: 983px;
+    top: 25px;
+}
+
