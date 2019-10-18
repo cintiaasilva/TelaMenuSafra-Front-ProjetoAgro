@@ -34,13 +34,30 @@
 
 .quadradoFinanceiro{
     position: absolute;
-    width: 277px;
-    height: 351px;
-    left: 389px;
+    width: 270px;
+    height: 250px;
+    left: 349px;
     top: 25px;
     background-color: chartreuse;
 
 }
+
+.Financeiro{
+    position: absolute;
+    width: 227px;
+    height: 73px;
+    left: 22px;
+    top: 170px;
+
+}
+.iconFin{
+    position: absolute;
+    width: 206px;
+    height: 231px;
+    left: 1014px;
+    top: 289px;
+}
+
 .quadradoInsumos{
     position: absolute;
     width: 277px;
