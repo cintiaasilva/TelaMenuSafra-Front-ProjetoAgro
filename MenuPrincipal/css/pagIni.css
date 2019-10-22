@@ -11,6 +11,8 @@
     background: linear-gradient(bottom, rgb(16, 114, 7), rgba(30, 197, 15, 0.4), rgb(3, 231, 21)); 
     opacity: 0.8;
     background-image: url('imagens/teste1.png');
+	background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
 
     
 }
